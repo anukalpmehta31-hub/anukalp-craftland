@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "786822333330",
+    "firebase_url": "https://anukalp-craftland-default-rtdb.firebaseio.com",
+    "project_id": "anukalp-craftland",
+    "storage_bucket": "anukalp-craftland.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786822333330:android:04c313d8b4f322049bf74b",
+        "android_client_info": {
+          "package_name": "com.anukalp.craftland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIUhoQBa95HEuajpStUOjQe0NHh0HVy9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
